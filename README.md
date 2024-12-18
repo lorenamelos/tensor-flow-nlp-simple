@@ -18,3 +18,6 @@ TensorFlow supports tasks like natural language processing, image and handwritin
 ### Coding Part
 You can check the coding and more detailed explanations in the notebook attached. Right now, the Notebook is available in Brazilian Portuguese, BUT you can find the same explanations in English [here](https://medium.com/@lorenamelo.engr/building-your-first-nlp-architecture-using-tensorflow-cd34683256a1) on my Medium.
 
+**Check the following diagram to get an overview on what content you will see on the notebook**
+
+![napkin-selection-2](https://github.com/user-attachments/assets/134b3598-7322-486a-8d3c-ebe3e9ae6404)
